@@ -1,2 +1,4 @@
 
-bin/www
+# /bin/www
+/node_modules/
+/node_modules/*
